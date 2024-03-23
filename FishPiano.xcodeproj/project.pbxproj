@@ -67,6 +67,7 @@
 		C605F8202BAED262005C2880 /* fish2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fish2.png; sourceTree = "<group>"; };
 		C605F8212BAED262005C2880 /* fish1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fish1.png; sourceTree = "<group>"; };
 		C605F8252BAED311005C2880 /* SEManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SEManager.swift; sourceTree = "<group>"; };
+		C605F8272BAF0454005C2880 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +98,7 @@
 		C605F7D12BAECEE5005C2880 = {
 			isa = PBXGroup;
 			children = (
+				C605F8272BAF0454005C2880 /* README.md */,
 				C605F7DC2BAECEE5005C2880 /* FishPiano */,
 				C605F7F32BAECEE6005C2880 /* FishPianoTests */,
 				C605F7FD2BAECEE6005C2880 /* FishPianoUITests */,
