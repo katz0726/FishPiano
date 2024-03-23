@@ -11,11 +11,20 @@
 		C605F7E02BAECEE5005C2880 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C605F7DF2BAECEE5005C2880 /* SceneDelegate.swift */; };
 		C605F7E22BAECEE5005C2880 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C605F7E12BAECEE5005C2880 /* ViewController.swift */; };
 		C605F7E52BAECEE5005C2880 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = C605F7E42BAECEE5005C2880 /* Base */; };
-		C605F7E72BAECEE5005C2880 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C605F7E62BAECEE5005C2880 /* Assets.xcassets */; };
 		C605F7EA2BAECEE5005C2880 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = C605F7E92BAECEE5005C2880 /* Base */; };
 		C605F7F52BAECEE6005C2880 /* FishPianoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C605F7F42BAECEE6005C2880 /* FishPianoTests.swift */; };
 		C605F7FF2BAECEE6005C2880 /* FishPianoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C605F7FE2BAECEE6005C2880 /* FishPianoUITests.swift */; };
 		C605F8012BAECEE6005C2880 /* FishPianoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C605F8002BAECEE6005C2880 /* FishPianoUITestsLaunchTests.swift */; };
+		C605F8102BAED072005C2880 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C605F80F2BAED072005C2880 /* Assets.xcassets */; };
+		C605F81A2BAED24D005C2880 /* 2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C605F8142BAED24D005C2880 /* 2.mp3 */; };
+		C605F81B2BAED24D005C2880 /* 1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C605F8152BAED24D005C2880 /* 1.mp3 */; };
+		C605F81C2BAED24D005C2880 /* 4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C605F8162BAED24D005C2880 /* 4.mp3 */; };
+		C605F81D2BAED24D005C2880 /* 5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C605F8172BAED24D005C2880 /* 5.mp3 */; };
+		C605F81E2BAED24D005C2880 /* 3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C605F8182BAED24D005C2880 /* 3.mp3 */; };
+		C605F81F2BAED24D005C2880 /* 6.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C605F8192BAED24D005C2880 /* 6.mp3 */; };
+		C605F8222BAED262005C2880 /* fish2.png in Resources */ = {isa = PBXBuildFile; fileRef = C605F8202BAED262005C2880 /* fish2.png */; };
+		C605F8232BAED262005C2880 /* fish1.png in Resources */ = {isa = PBXBuildFile; fileRef = C605F8212BAED262005C2880 /* fish1.png */; };
+		C605F8262BAED311005C2880 /* SEManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C605F8252BAED311005C2880 /* SEManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,7 +50,6 @@
 		C605F7DF2BAECEE5005C2880 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		C605F7E12BAECEE5005C2880 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		C605F7E42BAECEE5005C2880 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		C605F7E62BAECEE5005C2880 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C605F7E92BAECEE5005C2880 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C605F7EB2BAECEE5005C2880 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C605F7F02BAECEE6005C2880 /* FishPianoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FishPianoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -49,6 +57,16 @@
 		C605F7FA2BAECEE6005C2880 /* FishPianoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FishPianoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C605F7FE2BAECEE6005C2880 /* FishPianoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FishPianoUITests.swift; sourceTree = "<group>"; };
 		C605F8002BAECEE6005C2880 /* FishPianoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FishPianoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C605F80F2BAED072005C2880 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C605F8142BAED24D005C2880 /* 2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 2.mp3; sourceTree = "<group>"; };
+		C605F8152BAED24D005C2880 /* 1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 1.mp3; sourceTree = "<group>"; };
+		C605F8162BAED24D005C2880 /* 4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 4.mp3; sourceTree = "<group>"; };
+		C605F8172BAED24D005C2880 /* 5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 5.mp3; sourceTree = "<group>"; };
+		C605F8182BAED24D005C2880 /* 3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 3.mp3; sourceTree = "<group>"; };
+		C605F8192BAED24D005C2880 /* 6.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 6.mp3; sourceTree = "<group>"; };
+		C605F8202BAED262005C2880 /* fish2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fish2.png; sourceTree = "<group>"; };
+		C605F8212BAED262005C2880 /* fish1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fish1.png; sourceTree = "<group>"; };
+		C605F8252BAED311005C2880 /* SEManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SEManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,11 +117,13 @@
 		C605F7DC2BAECEE5005C2880 /* FishPiano */ = {
 			isa = PBXGroup;
 			children = (
+				C605F8242BAED2FB005C2880 /* lib */,
+				C605F8112BAED21C005C2880 /* assets */,
+				C605F80F2BAED072005C2880 /* Assets.xcassets */,
 				C605F7DD2BAECEE5005C2880 /* AppDelegate.swift */,
 				C605F7DF2BAECEE5005C2880 /* SceneDelegate.swift */,
 				C605F7E12BAECEE5005C2880 /* ViewController.swift */,
 				C605F7E32BAECEE5005C2880 /* Main.storyboard */,
-				C605F7E62BAECEE5005C2880 /* Assets.xcassets */,
 				C605F7E82BAECEE5005C2880 /* LaunchScreen.storyboard */,
 				C605F7EB2BAECEE5005C2880 /* Info.plist */,
 			);
@@ -125,6 +145,45 @@
 				C605F8002BAECEE6005C2880 /* FishPianoUITestsLaunchTests.swift */,
 			);
 			path = FishPianoUITests;
+			sourceTree = "<group>";
+		};
+		C605F8112BAED21C005C2880 /* assets */ = {
+			isa = PBXGroup;
+			children = (
+				C605F8132BAED22D005C2880 /* images */,
+				C605F8122BAED225005C2880 /* sounds */,
+			);
+			path = assets;
+			sourceTree = "<group>";
+		};
+		C605F8122BAED225005C2880 /* sounds */ = {
+			isa = PBXGroup;
+			children = (
+				C605F8152BAED24D005C2880 /* 1.mp3 */,
+				C605F8142BAED24D005C2880 /* 2.mp3 */,
+				C605F8182BAED24D005C2880 /* 3.mp3 */,
+				C605F8162BAED24D005C2880 /* 4.mp3 */,
+				C605F8172BAED24D005C2880 /* 5.mp3 */,
+				C605F8192BAED24D005C2880 /* 6.mp3 */,
+			);
+			path = sounds;
+			sourceTree = "<group>";
+		};
+		C605F8132BAED22D005C2880 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				C605F8212BAED262005C2880 /* fish1.png */,
+				C605F8202BAED262005C2880 /* fish2.png */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		C605F8242BAED2FB005C2880 /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				C605F8252BAED311005C2880 /* SEManager.swift */,
+			);
+			path = lib;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,9 +290,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C605F7E72BAECEE5005C2880 /* Assets.xcassets in Resources */,
+				C605F8232BAED262005C2880 /* fish1.png in Resources */,
+				C605F81D2BAED24D005C2880 /* 5.mp3 in Resources */,
 				C605F7EA2BAECEE5005C2880 /* Base in Resources */,
+				C605F81A2BAED24D005C2880 /* 2.mp3 in Resources */,
+				C605F81F2BAED24D005C2880 /* 6.mp3 in Resources */,
+				C605F8102BAED072005C2880 /* Assets.xcassets in Resources */,
+				C605F81C2BAED24D005C2880 /* 4.mp3 in Resources */,
+				C605F8222BAED262005C2880 /* fish2.png in Resources */,
 				C605F7E52BAECEE5005C2880 /* Base in Resources */,
+				C605F81E2BAED24D005C2880 /* 3.mp3 in Resources */,
+				C605F81B2BAED24D005C2880 /* 1.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,6 +326,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C605F7E22BAECEE5005C2880 /* ViewController.swift in Sources */,
+				C605F8262BAED311005C2880 /* SEManager.swift in Sources */,
 				C605F7DE2BAECEE5005C2880 /* AppDelegate.swift in Sources */,
 				C605F7E02BAECEE5005C2880 /* SceneDelegate.swift in Sources */,
 			);
@@ -442,13 +510,15 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7ZJC8B78ZG;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = FishPiano/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIStatusBarHidden = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -469,13 +539,15 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7ZJC8B78ZG;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = FishPiano/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIStatusBarHidden = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
